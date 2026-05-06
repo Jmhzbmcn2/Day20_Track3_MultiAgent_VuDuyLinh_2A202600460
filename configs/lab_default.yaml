@@ -5,16 +5,16 @@ lab:
 
 agents:
   supervisor:
-    model: gpt-4o-mini
+    model: llama-3.3-70b-versatile
     temperature: 0.0
   researcher:
-    model: gpt-4o-mini
+    model: llama-3.3-70b-versatile
     temperature: 0.2
   analyst:
-    model: gpt-4o-mini
+    model: llama-3.3-70b-versatile
     temperature: 0.1
   writer:
-    model: gpt-4o-mini
+    model: llama-3.3-70b-versatile
     temperature: 0.4
 
 benchmark:
